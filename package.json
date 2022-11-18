@@ -54,7 +54,9 @@
     }
   },
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "axios": "1.15.2",
+    "prop-types": "^15.7.2",
+    "socket.io-client": "4.8.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.0",
